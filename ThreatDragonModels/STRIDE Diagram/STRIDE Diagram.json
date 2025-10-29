@@ -19,8 +19,8 @@
         "cells": [
           {
             "position": {
-              "x": 500,
-              "y": 94.99999999999997
+              "x": 495,
+              "y": 74.99999999999997
             },
             "size": {
               "width": 450,
@@ -66,11 +66,10 @@
               ]
             }
           },
-
           {
             "position": {
-              "x": 50,
-              "y": 110
+              "x": 303.75,
+              "y": 120
             },
             "size": {
               "width": 120,
@@ -81,11 +80,13 @@
                 "text": "Web Browser / RDC"
               },
               "topLine": {
-                "strokeWidth": 1.5,
+                "stroke": "red",
+                "strokeWidth": 2.5,
                 "strokeDasharray": "4 3"
               },
               "bottomLine": {
-                "strokeWidth": 1.5,
+                "stroke": "red",
+                "strokeWidth": 2.5,
                 "strokeDasharray": "4 3"
               }
             },
@@ -103,7 +104,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -116,7 +119,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -129,7 +134,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -142,16 +149,30 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 }
               },
               "items": [
-                { "group": "top", "id": "14e41fd4-bb36-4e0e-a950-0aec555e1648" },
-                { "group": "right", "id": "b251f240-aa3a-4bb6-b86e-014da3d3ec62" },
-                { "group": "bottom", "id": "df2eb694-f598-4583-84f9-be55995d488c" },
-                { "group": "left", "id": "1da53e19-456d-41fd-9884-9decb862ef8c" }
+                {
+                  "group": "top",
+                  "id": "14e41fd4-bb36-4e0e-a950-0aec555e1648"
+                },
+                {
+                  "group": "right",
+                  "id": "b251f240-aa3a-4bb6-b86e-014da3d3ec62"
+                },
+                {
+                  "group": "bottom",
+                  "id": "df2eb694-f598-4583-84f9-be55995d488c"
+                },
+                {
+                  "group": "left",
+                  "id": "1da53e19-456d-41fd-9884-9decb862ef8c"
+                }
               ]
             },
             "id": "53dbd580-0f1c-4eb6-921b-975453c0c016",
@@ -198,21 +219,22 @@
               ]
             }
           },
-
           {
             "position": {
-              "x": 43.75,
-              "y": 290
+              "x": 307.5,
+              "y": 305
             },
             "size": {
               "width": 112.5,
               "height": 60
             },
             "attrs": {
-              "text": { "text": "Operator" },
+              "text": {
+                "text": "Operator"
+              },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1.5,
+                "stroke": "red",
+                "strokeWidth": 2.5,
                 "strokeDasharray": "4 3"
               }
             },
@@ -230,7 +252,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -243,7 +267,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -256,7 +282,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -269,16 +297,30 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 }
               },
               "items": [
-                { "group": "top", "id": "7c85ba68-ce84-470b-a5b4-758fce348304" },
-                { "group": "right", "id": "2a192458-e4a3-42d5-9340-51a4f1be6f62" },
-                { "group": "bottom", "id": "8a7e1662-c92e-46bb-9c3a-99a4d3c81560" },
-                { "group": "left", "id": "41b466c7-7a28-41e8-a35e-5091abcc8c86" }
+                {
+                  "group": "top",
+                  "id": "7c85ba68-ce84-470b-a5b4-758fce348304"
+                },
+                {
+                  "group": "right",
+                  "id": "2a192458-e4a3-42d5-9340-51a4f1be6f62"
+                },
+                {
+                  "group": "bottom",
+                  "id": "8a7e1662-c92e-46bb-9c3a-99a4d3c81560"
+                },
+                {
+                  "group": "left",
+                  "id": "41b466c7-7a28-41e8-a35e-5091abcc8c86"
+                }
               ]
             },
             "id": "161cec23-c1fa-480b-bd06-2e5f70e22457",
@@ -321,14 +363,165 @@
               ]
             }
           },
-
+          {
+            "position": {
+              "x": 625,
+              "y": -80
+            },
+            "size": {
+              "width": 190,
+              "height": 100
+            },
+            "attrs": {
+              "text": {
+                "text": "Network Interface\nVPN Gateway"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 4,
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "left",
+                  "id": "vpn-left"
+                },
+                {
+                  "group": "right",
+                  "id": "vpn-right"
+                },
+                {
+                  "group": "bottom",
+                  "id": "d59bafdf-9d2b-477c-a50e-5c4ca0fbd7d5"
+                },
+                {
+                  "group": "left",
+                  "id": "91ec6c57-9349-4513-9008-90d590f15f1e"
+                }
+              ]
+            },
+            "id": "net-iface-01",
+            "data": {
+              "type": "tm.Process",
+              "name": "Network Interface\nVPN Gateway",
+              "description": "Public-facing gateway / firewall / VPN concentrator providing remote access into SCADA network",
+              "outOfScope": false,
+              "isTrustBoundary": true,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "Gateway / Edge",
+              "threats": [
+                {
+                  "id": "t3-spoofing-netif",
+                  "title": "Unsecured remote access (public IP)",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Spoofing",
+                  "description": "If the gateway allows direct login from the Internet without MFA or IP restrictions, attackers can impersonate remote staff.",
+                  "mitigation": "Enforce MFA on VPN, restrict source IP ranges, and disable direct exposure of SCADA ports.",
+                  "modelType": "STRIDE",
+                  "new": true,
+                  "number": 9,
+                  "score": ""
+                },
+                {
+                  "id": "t12-dos-netif",
+                  "title": "Gateway DoS / Flooding",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Denial of Service",
+                  "description": "Attackers can overwhelm the public interface, preventing operators from issuing safety commands.",
+                  "mitigation": "Rate limiting, lockouts, upstream firewall/WAF, redundant paths.",
+                  "modelType": "STRIDE",
+                  "new": true,
+                  "number": 10,
+                  "score": ""
+                }
+              ]
+            }
+          },
           {
             "shape": "flow",
             "attrs": {
               "line": {
-                "stroke": "#333333",
-                "targetMarker": { "name": "block" },
-                "sourceMarker": { "name": "" },
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
                 "strokeDasharray": null
               }
             },
@@ -377,7 +570,9 @@
                 }
               ]
             },
-            "labels": [ "User credentials" ],
+            "labels": [
+              "User credentials"
+            ],
             "id": "a89f2d7e-45f0-4f1b-9318-793532f903f5",
             "source": {
               "cell": "161cec23-c1fa-480b-bd06-2e5f70e22457",
@@ -387,139 +582,20 @@
               "cell": "53dbd580-0f1c-4eb6-921b-975453c0c016",
               "port": "df2eb694-f598-4583-84f9-be55995d488c"
             },
-            "vertices": [ { "x": 110, "y": 230 } ]
+            "vertices": []
           },
-
-          {
-            "position": {
-              "x": 400,
-              "y": 120
-            },
-            "size": {
-              "width": 130,
-              "height": 70
-            },
-            "attrs": {
-              "text": { "text": "Network Interface / VPN Gateway" },
-              "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1.5
-              }
-            },
-            "visible": true,
-            "shape": "process",
-            "zIndex": 4,
-            "ports": {
-              "groups": {
-                "top": {
-                  "position": "top",
-                  "attrs": {
-                    "circle": {
-                      "r": 4,
-                      "magnet": true,
-                      "stroke": "#5F95FF",
-                      "strokeWidth": 1,
-                      "fill": "#fff",
-                      "style": { "visibility": "hidden" }
-                    }
-                  }
-                },
-                "right": {
-                  "position": "right",
-                  "attrs": {
-                    "circle": {
-                      "r": 4,
-                      "magnet": true,
-                      "stroke": "#5F95FF",
-                      "strokeWidth": 1,
-                      "fill": "#fff",
-                      "style": { "visibility": "hidden" }
-                    }
-                  }
-                },
-                "bottom": {
-                  "position": "bottom",
-                  "attrs": {
-                    "circle": {
-                      "r": 4,
-                      "magnet": true,
-                      "stroke": "#5F95FF",
-                      "strokeWidth": 1,
-                      "fill": "#fff",
-                      "style": { "visibility": "hidden" }
-                    }
-                  }
-                },
-                "left": {
-                  "position": "left",
-                  "attrs": {
-                    "circle": {
-                      "r": 4,
-                      "magnet": true,
-                      "stroke": "#5F95FF",
-                      "strokeWidth": 1,
-                      "fill": "#fff",
-                      "style": { "visibility": "hidden" }
-                    }
-                  }
-                }
-              },
-              "items": [
-                { "group": "left", "id": "vpn-left" },
-                { "group": "right", "id": "vpn-right" }
-              ]
-            },
-            "id": "net-iface-01",
-            "data": {
-              "type": "tm.Process",
-              "name": "Network Interface / VPN Gateway",
-              "description": "Public-facing gateway / firewall / VPN concentrator providing remote access into SCADA network",
-              "outOfScope": false,
-              "isTrustBoundary": true,
-              "reasonOutOfScope": "",
-              "hasOpenThreats": true,
-              "handlesCardPayment": false,
-              "handlesGoodsOrServices": false,
-              "isWebApplication": false,
-              "privilegeLevel": "Gateway / Edge",
-              "threats": [
-                {
-                  "id": "t3-spoofing-netif",
-                  "title": "Unsecured remote access (public IP)",
-                  "status": "Open",
-                  "severity": "High",
-                  "type": "Spoofing",
-                  "description": "If the gateway allows direct login from the Internet without MFA or IP restrictions, attackers can impersonate remote staff.",
-                  "mitigation": "Enforce MFA on VPN, restrict source IP ranges, and disable direct exposure of SCADA ports.",
-                  "modelType": "STRIDE",
-                  "new": true,
-                  "number": 9,
-                  "score": ""
-                },
-                {
-                  "id": "t12-dos-netif",
-                  "title": "Gateway DoS / Flooding",
-                  "status": "Open",
-                  "severity": "High",
-                  "type": "Denial of Service",
-                  "description": "Attackers can overwhelm the public interface, preventing operators from issuing safety commands.",
-                  "mitigation": "Rate limiting, lockouts, upstream firewall/WAF, redundant paths.",
-                  "modelType": "STRIDE",
-                  "new": true,
-                  "number": 10,
-                  "score": ""
-                }
-              ]
-            }
-          },
-
           {
             "shape": "flow",
             "attrs": {
               "line": {
-                "stroke": "#333333",
-                "targetMarker": { "name": "block" },
-                "sourceMarker": { "name": "block" },
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": "block"
+                },
                 "strokeDasharray": null
               }
             },
@@ -568,7 +644,9 @@
                 }
               ]
             },
-            "labels": [ "Process Data" ],
+            "labels": [
+              "Process Data"
+            ],
             "id": "6d94a310-9e75-4cda-a216-65361f33a319",
             "source": {
               "cell": "c43fa65a-5b38-4f08-b27f-e08b00c12149",
@@ -578,16 +656,25 @@
               "cell": "d0140152-52bf-4e37-94f7-007ad10d07d9",
               "port": "b4662a6c-baea-4cb7-b301-e24b91dc48ce"
             },
-            "vertices": [ { "x": 580, "y": 200 } ]
+            "vertices": [
+              {
+                "x": 580,
+                "y": 200
+              }
+            ]
           },
-
           {
             "shape": "flow",
             "attrs": {
               "line": {
-                "stroke": "#333333",
-                "targetMarker": { "name": "block" },
-                "sourceMarker": { "name": "block" },
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": "block"
+                },
                 "strokeDasharray": null
               }
             },
@@ -636,7 +723,9 @@
                 }
               ]
             },
-            "labels": [ "Control Commands" ],
+            "labels": [
+              "Control Commands"
+            ],
             "id": "f7d5071f-b590-4948-bfd8-0966f4d86203",
             "source": {
               "cell": "d0140152-52bf-4e37-94f7-007ad10d07d9",
@@ -646,16 +735,25 @@
               "cell": "3cf38af3-7a9d-4626-9cb2-744a2a260c84",
               "port": "14e41fd4-bb36-4e0e-a950-0aec555e1648"
             },
-            "vertices": [ { "x": 860, "y": 190 } ]
+            "vertices": [
+              {
+                "x": 860,
+                "y": 190
+              }
+            ]
           },
-
           {
             "shape": "flow",
             "attrs": {
               "line": {
-                "stroke": "#333333",
-                "targetMarker": { "name": "block" },
-                "sourceMarker": { "name": "" },
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
                 "strokeDasharray": null
               }
             },
@@ -691,19 +789,112 @@
                 }
               ]
             },
-            "labels": [ "Status Data" ],
+            "labels": [
+              "Status Data"
+            ],
             "id": "c277192e-f83f-4029-b74b-5785a25afc0b",
             "source": {
               "cell": "1a5bf844-23d1-4202-94e3-8cd87b67e798",
-              "port": "8be581a5-abe0-4eab-b4f4-ade1db1ac9db"
+              "port": "87de4595-5453-49e8-9a52-f6502646b59e"
             },
             "target": {
-              "cell": "c43fa65a-5b38-4f08-b27f-e08b00c12149",
-              "port": "1da53e19-456d-41fd-9884-9decb862ef8c"
+              "cell": "net-iface-01",
+              "port": "91ec6c57-9349-4513-9008-90d590f15f1e"
             },
-            "vertices": [ { "x": 430, "y": 330 } ]
+            "vertices": []
           },
-
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "isTrustBoundary": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "Data Flow"
+            ],
+            "id": "053a236e-647f-471f-a7e1-49998482e227",
+            "source": {
+              "cell": "53dbd580-0f1c-4eb6-921b-975453c0c016",
+              "port": "14e41fd4-bb36-4e0e-a950-0aec555e1648"
+            },
+            "target": {
+              "cell": "1a5bf844-23d1-4202-94e3-8cd87b67e798",
+              "port": "8be581a5-abe0-4eab-b4f4-ade1db1ac9db"
+            },
+            "vertices": []
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "isTrustBoundary": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "Data Flow"
+            ],
+            "id": "843b7061-6a6f-460b-97b8-1e112818107b",
+            "source": {
+              "cell": "net-iface-01",
+              "port": "d59bafdf-9d2b-477c-a50e-5c4ca0fbd7d5"
+            },
+            "target": {
+              "cell": "d0140152-52bf-4e37-94f7-007ad10d07d9",
+              "port": "529640b2-df4c-43a5-92af-de971ec1459b"
+            },
+            "vertices": []
+          },
           {
             "position": {
               "x": 545,
@@ -714,9 +905,19 @@
               "height": 60
             },
             "attrs": {
-              "text": { "text": "Database" },
-              "topLine": { "strokeWidth": 1.5, "strokeDasharray": null },
-              "bottomLine": { "strokeWidth": 1.5, "strokeDasharray": null }
+              "text": {
+                "text": "Database"
+              },
+              "topLine": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "strokeDasharray": null
+              }
             },
             "visible": true,
             "shape": "store",
@@ -732,7 +933,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -745,7 +948,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -758,7 +963,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -771,16 +978,30 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 }
               },
               "items": [
-                { "group": "top", "id": "14e41fd4-bb36-4e0e-a950-0aec555e1648" },
-                { "group": "right", "id": "b251f240-aa3a-4bb6-b86e-014da3d3ec62" },
-                { "group": "bottom", "id": "df2eb694-f598-4583-84f9-be55995d488c" },
-                { "group": "left", "id": "1da53e19-456d-41fd-9884-9decb862ef8c" }
+                {
+                  "group": "top",
+                  "id": "14e41fd4-bb36-4e0e-a950-0aec555e1648"
+                },
+                {
+                  "group": "right",
+                  "id": "b251f240-aa3a-4bb6-b86e-014da3d3ec62"
+                },
+                {
+                  "group": "bottom",
+                  "id": "df2eb694-f598-4583-84f9-be55995d488c"
+                },
+                {
+                  "group": "left",
+                  "id": "1da53e19-456d-41fd-9884-9decb862ef8c"
+                }
               ]
             },
             "id": "c43fa65a-5b38-4f08-b27f-e08b00c12149",
@@ -840,21 +1061,22 @@
               ]
             }
           },
-
           {
             "position": {
-              "x": 670,
-              "y": 100
+              "x": 665,
+              "y": 110
             },
             "size": {
               "width": 110,
               "height": 100
             },
             "attrs": {
-              "text": { "text": "Web Server" },
+              "text": {
+                "text": "Web Server"
+              },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1.5,
+                "stroke": "red",
+                "strokeWidth": 2.5,
                 "strokeDasharray": null
               }
             },
@@ -872,7 +1094,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -885,7 +1109,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -898,7 +1124,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -911,16 +1139,30 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 }
               },
               "items": [
-                { "group": "top", "id": "529640b2-df4c-43a5-92af-de971ec1459b" },
-                { "group": "right", "id": "fdc26592-d3da-4bd6-b557-d27df837cded" },
-                { "group": "bottom", "id": "2750ffc8-44e3-4876-8852-f794a3a4e4fe" },
-                { "group": "left", "id": "b4662a6c-baea-4cb7-b301-e24b91dc48ce" }
+                {
+                  "group": "top",
+                  "id": "529640b2-df4c-43a5-92af-de971ec1459b"
+                },
+                {
+                  "group": "right",
+                  "id": "fdc26592-d3da-4bd6-b557-d27df837cded"
+                },
+                {
+                  "group": "bottom",
+                  "id": "2750ffc8-44e3-4876-8852-f794a3a4e4fe"
+                },
+                {
+                  "group": "left",
+                  "id": "b4662a6c-baea-4cb7-b301-e24b91dc48ce"
+                }
               ]
             },
             "id": "d0140152-52bf-4e37-94f7-007ad10d07d9",
@@ -979,7 +1221,6 @@
               ]
             }
           },
-
           {
             "position": {
               "x": 780,
@@ -990,9 +1231,19 @@
               "height": 60
             },
             "attrs": {
-              "text": { "text": "Control Logic" },
-              "topLine": { "strokeWidth": 1.5, "strokeDasharray": null },
-              "bottomLine": { "strokeWidth": 1.5, "strokeDasharray": null }
+              "text": {
+                "text": "Control Logic"
+              },
+              "topLine": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "strokeDasharray": null
+              }
             },
             "visible": true,
             "shape": "store",
@@ -1008,7 +1259,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -1021,7 +1274,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -1034,7 +1289,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -1047,16 +1304,30 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 }
               },
               "items": [
-                { "group": "top", "id": "14e41fd4-bb36-4e0e-a950-0aec555e1648" },
-                { "group": "right", "id": "b251f240-aa3a-4bb6-b86e-014da3d3ec62" },
-                { "group": "bottom", "id": "df2eb694-f598-4583-84f9-be55995d488c" },
-                { "group": "left", "id": "1da53e19-456d-41fd-9884-9decb862ef8c" }
+                {
+                  "group": "top",
+                  "id": "14e41fd4-bb36-4e0e-a950-0aec555e1648"
+                },
+                {
+                  "group": "right",
+                  "id": "b251f240-aa3a-4bb6-b86e-014da3d3ec62"
+                },
+                {
+                  "group": "bottom",
+                  "id": "df2eb694-f598-4583-84f9-be55995d488c"
+                },
+                {
+                  "group": "left",
+                  "id": "1da53e19-456d-41fd-9884-9decb862ef8c"
+                }
               ]
             },
             "id": "3cf38af3-7a9d-4626-9cb2-744a2a260c84",
@@ -1090,18 +1361,19 @@
               ]
             }
           },
-
           {
             "position": {
-              "x": 260,
-              "y": 200
+              "x": 313.75,
+              "y": -80
             },
             "size": {
               "width": 100,
               "height": 100
             },
             "attrs": {
-              "text": { "text": "Authentication" },
+              "text": {
+                "text": "Authentication"
+              },
               "body": {
                 "stroke": "red",
                 "strokeWidth": 2.5,
@@ -1110,6 +1382,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 14,
             "ports": {
               "groups": {
                 "top": {
@@ -1121,7 +1394,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -1134,7 +1409,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -1147,7 +1424,9 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 },
@@ -1160,20 +1439,33 @@
                       "stroke": "#5F95FF",
                       "strokeWidth": 1,
                       "fill": "#fff",
-                      "style": { "visibility": "hidden" }
+                      "style": {
+                        "visibility": "hidden"
+                      }
                     }
                   }
                 }
               },
               "items": [
-                { "group": "top", "id": "fde4fe01-5ab6-4c6e-8b11-969602cb0ad0" },
-                { "group": "right", "id": "87de4595-5453-49e8-9a52-f6502646b59e" },
-                { "group": "bottom", "id": "8be581a5-abe0-4eab-b4f4-ade1db1ac9db" },
-                { "group": "left", "id": "28c04c2c-1450-486e-8f5d-6fcff19ff164" }
+                {
+                  "group": "top",
+                  "id": "fde4fe01-5ab6-4c6e-8b11-969602cb0ad0"
+                },
+                {
+                  "group": "right",
+                  "id": "87de4595-5453-49e8-9a52-f6502646b59e"
+                },
+                {
+                  "group": "bottom",
+                  "id": "8be581a5-abe0-4eab-b4f4-ade1db1ac9db"
+                },
+                {
+                  "group": "left",
+                  "id": "28c04c2c-1450-486e-8f5d-6fcff19ff164"
+                }
               ]
             },
             "id": "1a5bf844-23d1-4202-94e3-8cd87b67e798",
-            "zIndex": 14,
             "data": {
               "type": "tm.Process",
               "name": "Authentication",
